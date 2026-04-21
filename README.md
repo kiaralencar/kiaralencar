@@ -19,13 +19,6 @@ Me chamo **Kiara Luz Alencar**, tenho 21 anos e sou natural de Itabuna, Bahia. A
             src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://github.com/kiaralencar?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/kiaralencar?color=8957e5&labelColor=6e40c9&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
     <a href="https://github.com/kiaralencar?tab=repositories&sort=stargazers">
         <img 
             alt="Stars" 
