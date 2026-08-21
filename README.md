@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Computação`**
 
-Me chamo **Kiara Luz Alencar**, tenho 21 anos e sou natural de Itabuna, Bahia. Atualmente no 4º semestre, curso Engenharia de Computação na **Universidade Estadual de Feira de Santana** (UEFS), onde aprendo através da metodologia PBL (*Problem-Based Learning*) — um modelo de ensino focado na resolução de problemas reais em equipe. Ao longo da graduação, já trabalhei com linguagens como Python, C, Java e Verilog, além de projetos envolvendo hardware, incluindo circuitos e sistemas digitais. Tenho paixão por tecnologia e estou sempre explorando novas áreas.
+Me chamo **Kiara Luz Alencar**, tenho 21 anos e sou natural de Itabuna, Bahia. Atualmente no 5º semestre, curso Engenharia de Computação na **Universidade Estadual de Feira de Santana** (UEFS), onde aprendo através da metodologia PBL (*Problem-Based Learning*) — um modelo de ensino focado na resolução de problemas reais em equipe. Ao longo da graduação, já trabalhei com linguagens como Python, C, Java e Verilog, além de projetos envolvendo hardware, incluindo circuitos e sistemas digitais. Tenho paixão por tecnologia e estou sempre explorando novas áreas.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/kiaralencar">
